@@ -1,0 +1,32 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib brokenflip14.mtl
+g brokenflip14:default1
+v 0.015791 -3.402821 -1.374605
+v 0.439882 -3.402821 -1.374605
+v 0.015791 -2.559666 2.250959
+v 0.439882 -2.559667 2.250959
+v 0.015791 6.806380 -1.374605
+v 0.439882 6.806380 -1.374605
+vt 0.375000 0.192712
+vt 0.625000 0.192712
+vt 0.293793 0.183689
+vt 0.706207 0.183689
+vt 0.375000 0.083462
+vt 0.625000 0.083462
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn 0.000000 0.000000 -1.000000
+vn 0.000000 0.000000 -1.000000
+vn 0.000000 0.000000 -1.000000
+vn 0.000000 0.000000 -1.000000
+vn 1.000000 0.000000 0.000000
+vn 1.000000 0.000000 0.000000
+vn 1.000000 0.000000 0.000000
+s off
+g brokenflip14:initialShadingGroup brokenflip14:initialShadingGroup1 brokenflip14:initialShadingGroup2 brokenflip14:initialShadingGroup3 brokenflip14:initialShadingGroup4 brokenflip14:pCube13 brokenflip14:polySurface2 brokenflip14:polySurface3 brokenflip14:polySurface4 brokenflip14:polySurface5 brokenflip14:polySurface1
+usemtl blinn1SG
+f 1/1/1 3/3/2 5/5/3
+f 1/1/4 5/5/5 6/6/6 2/2/7
+f 6/6/8 4/4/9 2/2/10

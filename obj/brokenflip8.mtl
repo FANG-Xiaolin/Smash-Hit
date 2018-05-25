@@ -1,0 +1,8 @@
+newmtl blinn1SG
+illum 4
+
+Kd 0.60 0.60 0.60
+Ka 0.20 0.20 0.30Tf 1.00 1.00 1.00
+map_Kd blue.bmp
+Ni 1.00
+Ks 0.50 0.50 0.50

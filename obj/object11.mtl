@@ -1,0 +1,12 @@
+newmtl object9:initialShadingGroup
+illum 4
+Kd 0.80 0.20 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl object10:initialShadingGroup
+illum 4
+Kd 0.80 0.20 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00

@@ -1,0 +1,39 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib brokenflip10.mtl
+g brokenflip10:default1
+v 0.007178 -2.038578 1.514009
+v 0.431269 -2.063147 1.408368
+v 0.007178 -2.493274 -0.441180
+v 0.431269 -2.493275 -0.441180
+v 0.431269 5.775556 2.061592
+v 0.007178 5.775556 2.061592
+v 0.007178 3.347077 -2.701961
+v 0.431269 3.347077 -2.701961
+vt 0.250000 0.178824
+vt 0.747634 0.179087
+vt 0.293793 0.183689
+vt 0.706207 0.183689
+vt 0.762265 0.095204
+vt 0.237735 0.095204
+vt 0.344431 0.121191
+vt 0.655569 0.121191
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn 1.000000 0.000000 0.000000
+vn 1.000000 0.000000 0.000000
+vn 1.000000 -0.000000 0.000000
+vn 1.000000 -0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+s off
+g brokenflip10:initialShadingGroup brokenflip10:initialShadingGroup1 brokenflip10:initialShadingGroup2 brokenflip10:initialShadingGroup3 brokenflip10:pCube13 brokenflip10:polySurface2 brokenflip10:polySurface3 brokenflip10:polySurface4 brokenflip10:polySurface1
+usemtl blinn1SG
+f 6/6/1 7/7/2 3/3/3 1/1/4
+f 8/8/5 5/5/6 2/2/7 4/4/8
+g brokenflip10:initialShadingGroup brokenflip10:polySurface4 brokenflip10:polySurface1
+f 5/5/9 8/8/10 4/4/11 2/2/12
