@@ -1,0 +1,6 @@
+flipslab1--object3左右
+flipslab2--object4上下
+flipslab3_1--object5左门
+flipslab3_2--object6右门
+flipslab4_1--object7上门
+flipslab4_2--object8下门

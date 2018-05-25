@@ -1,0 +1,15 @@
+roomlength(float)
+door switch(x,y,z)
+left right ceil ground (float)
+point 1(x,y,z)
+point 2
+......
+-1.0(the end of points)
+flipslab 1(center x,y,z) type[1=左右，2=上下]
+flipslab 2
+......
+-2.0
+door type[1=左右开 2=上下开]
+laserwall depth [x坐标]
+....
+-3.0

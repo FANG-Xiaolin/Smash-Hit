@@ -1,0 +1,13 @@
+Diamond.obj
+FlipSlablr.obj
+FlipSlabud.obj
+Doorleft.obj
+Doorright.obj
+Doorup.obj
+Doordown.obj
+Switchleft.obj
+Switchright.obj
+Ball.obj
+smalldiamond.obj
+light.obj
+END

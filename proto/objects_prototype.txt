@@ -1,0 +1,12 @@
+diamond 0
+左右flipslab 1
+上下flipslab 2
+左_door 3
+右_door 4
+上_door 5
+下_door 6
+门开关左 7
+门开关右 8
+钢球 9（opengl里画？）
+粒子 10（门开关粒子）
+镭射 11

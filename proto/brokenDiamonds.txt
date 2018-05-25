@@ -1,0 +1,5 @@
+Diamond1.obj
+Diamond2.obj
+Diamond3.obj
+Diamond4.obj
+END
